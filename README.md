@@ -16,3 +16,4 @@ Repository for beginners to practice making commits and pull requests
 Practice by adding your name to this list:
 
 Lily Mekeel
+Eduardo Hernández
